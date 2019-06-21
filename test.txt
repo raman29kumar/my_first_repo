@@ -1,0 +1,1 @@
+this is to confirm that if we make changes to the master and current branch and then merging both
